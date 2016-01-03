@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+NOTICE: This system has detected and removed a file that violated Capital One policy.  You can safely save or delete this replacement attachment.
+
+The file named "winmail.dat->Unnamed Attachment->mapper2.exe" has been Removed from this email message.
